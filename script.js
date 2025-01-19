@@ -12,8 +12,11 @@ function getComputerChoice(){
     }
 }
 
-getComputerChoice();
-getComputerChoice();
-getComputerChoice();
-getComputerChoice();
-getComputerChoice();
+let humanChoice;
+
+function getHumanChoice(){
+    humanChoice = prompt("Please write your Rock, Paper or Scissors choice", "");
+    return humanChoice;
+}
+
+console.log("Rock" === "rock");
