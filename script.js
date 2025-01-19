@@ -73,6 +73,5 @@ function playGame(){
     }
 }
 
-// playGame();
 
 playGame();
