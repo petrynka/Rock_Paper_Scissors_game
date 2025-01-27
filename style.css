@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(218, 222, 225);
+}
+
+.container{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.container p{
+    font-size: 20px;
+}
+
+.btn-holder{
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.item{
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+    color: beige;
+}
+
+.score{
+    display: flex;
+    margin: 50px auto;
+    font-size: 24px;
+    font-weight: bold;
+    justify-content: space-around;
+    width: 160px;
+}
