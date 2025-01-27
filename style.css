@@ -35,3 +35,11 @@ body{
     justify-content: space-around;
     width: 160px;
 }
+
+.result{
+    width: 300px;
+    margin: 40px auto;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
